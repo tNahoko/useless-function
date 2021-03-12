@@ -1,0 +1,23 @@
+{
+  "name": "useless-function",
+  "version": "1.0.0",
+  "description": "It is useless but it works",
+  "main": "coffeeParse.js",
+  "scripts": {
+    "test": "mocha ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tNahoko/useless-function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tNahoko/useless-function/issues"
+  },
+  "homepage": "https://github.com/tNahoko/useless-function#readme",
+  "dependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1"
+  }
+}
